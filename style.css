@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+p{ 
+    text-align: inherit;
+    color: gray;
+}
+#white{
+    
+color: white;
+}
+#green{
+    color:rgb(34, 175, 34);
+}
+
+hr{
+    border: 0.5px solid gray;
+}
+#black{
+    background-color: black;
+}
+#gry
+{
+    background-color: rgb(36, 33, 33);
+}
+.font1{
+    font-size: 45px;
+}
+.font2{
+    font-size: 25px;
+}
